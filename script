@@ -19,7 +19,7 @@ $(tput setaf 1)††††††††††
 "
 
 
-echo "Bienvenue sur l'application non-officielle de la $(tput setaf 1)Croix-Rouge Française$(tput sgr 0).";
+echo "Bienvenue sur l'application officielle de la $(tput setaf 1)Croix-Rouge Française$(tput sgr 0).";
 echo "Elle vous permet de découvrir les premiers gestes à effectuer en cas de blessure."
 
 echo "Que voulez-vous faire?"
