@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483975143 source:c:\users\avocalam\desktop\anaconda\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
